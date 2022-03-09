@@ -1,0 +1,59 @@
+.faixainicial{
+	background: white ;
+	border: 2px solid white ;
+	font:10px solid red;
+
+}
+
+.nomeloja{
+	font: 60px solid white;
+}
+
+#menu{
+	border: #42cbf5;
+	font: 40px solid white;
+	margin-top: 60px;
+}
+
+#bordaconsulta{
+	margin: 60px 15px;
+	font: 20px solid;
+}
+
+#barraconsulta2{
+	font: 30px solid ;
+}
+
+#rodape1{
+	font: 35px solid white;
+	text-align: center;
+}
+
+#riscar{
+	 text-decoration: line-through;
+}
+#preco{
+	font: 20px arial;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.branco{
+	color: white;
+}
+
+.rodape2{
+	padding: 20px;
+}
+
+/*-- sem uso
+.lista{
+	list-style: none;
+} ---*/ 
+
+.borda{
+	border: 1px solid black;
+}
